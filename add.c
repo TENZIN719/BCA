@@ -5,6 +5,6 @@
     scanf("%d%d", &A, &B); 
 
     sum = A + B; 
-    printf("Sum of A and B is: %d", sum); 
+    printf("of A and B is: %d", sum); 
     return 0; 
 }
